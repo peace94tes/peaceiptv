@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:6
+#EXT-X-MEDIA-SEQUENCE:666
+#EXTINF:2.0,
+media-ulw3j77j7_2120.ts
+#EXTINF:2.0,
+media-ulw3j77j7_2121.ts
+#EXTINF:2.0,
+media-ulw3j77j7_2122.ts
+#EXTINF:2.0,
+media-ulw3j77j7_2123.ts
