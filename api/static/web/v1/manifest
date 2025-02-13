@@ -1,0 +1,623 @@
+[
+{
+"channel":"astroSS1.my",
+"id":"astroSS1.my",
+"name":"ASTRO SUPERSPORT",
+"categories":["SPORTS"],
+"url":"my/astrossp0rts1.m3u8",
+"logo":"https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",
+"country":"MY"
+}, 
+{
+"channel":"astroSS2.my",
+"id":"astroSS2.my",
+"name":"ASTRO SUPERSPORT 2",
+"categories":["SPORTS"],
+"url":"my/astrossp0rts2.m3u8",
+"logo":"https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",
+"country":"MY"
+}, 
+{
+"channel":"astroSS3.my",
+"id":"astroSS3.my",
+"name":"ASTRO SUPERSPORT 3",
+"categories":["SPORTS"],
+"url":"my/astrossp0rts3.m3u8",
+"logo":"https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",
+"country":"MY"
+},
+{
+"channel":"astroSS4.my",
+"id":"astroSS4.my",
+"name":"ASTRO SUPERSPORT 4",
+"categories":["SPORTS"],
+"url":"my/astrossp0rts4.m3u8",
+"logo":"https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",
+"country":"MY"
+},
+{
+"channel":"play1Sports.be",
+"id":"play1Sports.be",
+"name":"PLAY SPORTS 1",
+"categories":["SPORTS"],
+"url":"be/play1Sports.m3u8",
+"logo":"https://i.imgur.com/E2wVMVk.jpeg",
+"country":"BE"
+},
+{
+"channel":"play2Sports.be",
+"id":"play2Sports.be",
+"name":"PLAY SPORTS 2",
+"categories":["SPORTS"],
+"url":"be/play2Sports.m3u8",
+"logo":"https://i.imgur.com/E2wVMVk.jpeg",
+"country":"BE"
+},
+  {
+"channel":"play3Sports.be",
+"id":"play3Sports.be",
+"name":"PLAY SPORTS 3",
+"categories":["SPORTS"],
+"url":"be/play3Sports.m3u8",
+"logo":"https://i.imgur.com/E2wVMVk.jpeg",
+"country":"BE"
+},
+{
+"channel":"skysp0rtsME.uk",
+"id":"skysp0rtsME.uk",
+"name":"SKYSPORTS MAIN EVENT",
+"categories":["SPORTS"],
+"url":"uk/skysp0rtsME.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/mp44981502554837.png",
+"country":"UK"
+},
+{
+"channel":"skysp0rtsPL.uk",
+"id":"skysp0rtsPL.uk",
+"name":"SKYSPORTS PREMIER LEAGUE",
+"categories":["SPORTS"],
+"url":"uk/skysp0rtsPL.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/7e2lv21502554825.png",
+"country":"UK"
+},
+{
+"channel":"skysp0rtsFB.uk",
+"id":"skysp0rtsFB.uk",
+"name":"SKYSPORTS FOOTBALL",
+"categories":["SPORTS"],
+"url":"uk/skysp0rtsFB.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/lnd1p01502554851.png",
+"country":"UK"
+},
+{
+"channel":"skysp0rtsTE.de",
+"id":"skysp0rtsTE.de",
+"name":"SKYSPORTS TOP EVENT",
+"categories":["SPORTS"],
+"url":"de/skysp0rtsTE.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/tiny/r14o5i1658662835.png",
+"country":"DE"
+},
+{
+"channel":"skysp0rtsCC.it",
+"id":"skysp0rtsCC.it",
+"name":"SKYSPORTS CALCIO",
+"categories":["SPORTS"],
+"url":"it/skysp0rtsCC.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/tiny/70ud6o1656963115.png",
+"country":"IT"
+},
+{
+"channel":"usaNetW.us",
+"id":"usaNetW.us",
+"name":"USA NETWORK (WEST)",
+"categories":["SPORTS"],
+"url":"us/usanetw0rk-west.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/tiny/yswxwr1433432126.png",
+"country":"US"
+},
+{
+"channel":"skyS1.nz",
+"id":"skyS1.nz",
+"name":"SKYSPORTS 1",
+"categories":["SPORTS"],
+"url":"nz/skysp0rts1.m3u8",
+"logo":"https://static.sky.co.nz/sky/channel-logos/051_sky_sport_1_logo_stack_rgb.png",
+"country":"NZ"
+},
+{
+"channel":"skyS2.nz",
+"id":"skyS2.nz",
+"name":"SKYSPORTS 2",
+"categories":["SPORTS"],
+"url":"nz/skysp0rts2.m3u8",
+"logo":"https://static.sky.co.nz/sky/channel-logos/051_sky_sport_2_logo_stack_rgb.png",
+"country":"NZ"
+},
+{
+"channel":"skyS3.nz",
+"id":"skyS3.nz",
+"name":"SKYSPORTS 3",
+"categories":["SPORTS"],
+"url":"nz/skysp0rts3.m3u8",
+"logo":"https://static.sky.co.nz/sky/channel-logos/051_sky_sport_3_logo_stack_rgb.png",
+"country":"NZ"
+},
+{
+"channel":"skyS4.nz",
+"id":"skyS4.nz",
+"name":"SKYSPORTS 4",
+"categories":["SPORTS"],
+"url":"nz/skysp0rts4.m3u8",
+"logo":"https://static.sky.co.nz/sky/channel-logos/051_sky_sport_4_logo_stack_rgb.png",
+"country":"NZ"
+},
+{
+"channel":"skyS5.nz",
+"id":"skyS5.nz",
+"name":"SKYSPORTS 5",
+"categories":["SPORTS"],
+"url":"nz/skysp0rts5.m3u8",
+"logo":"https://static.sky.co.nz/sky/channel-logos/051_sky_sport_5_logo_stack_rgb.png",
+"country":"NZ"
+},
+{
+"channel":"skyS6.nz",
+"id":"skyS6.nz",
+"name":"SKYSPORTS 6",
+"categories":["SPORTS"],
+"url":"nz/skysp0rts6.m3u8",
+"logo":"https://static.sky.co.nz/sky/channel-logos/051_sky_sport_6_logo_stack_rgb.png",
+"country":"NZ"
+},
+{
+"channel":"skyS7.nz",
+"id":"skyS7.nz",
+"name":"SKYSPORTS 7",
+"categories":["SPORTS"],
+"url":"nz/skysp0rts7.m3u8",
+"logo":"https://static.sky.co.nz/sky/channel-logos/051_sky_sport_7_logo_stack_rgb.png",
+"country":"NZ"
+},
+{
+"channel":"skyS8.nz",
+"id":"skyS8.nz",
+"name":"SKYSPORTS 8",
+"categories":["SPORTS"],
+"url":"nz/skysp0rts8.m3u8",
+"logo":"https://static.sky.co.nz/sky/channel-logos/051_sky_sport_8_logo_stack_rgb.png",
+"country":"NZ"
+},
+{
+"channel":"skyS9.nz",
+"id":"skyS9.nz",
+"name":"SKYSPORTS 9",
+"categories":["SPORTS"],
+"url":"nz/skysp0rts9.m3u8",
+"logo":"https://static.sky.co.nz/sky/channel-logos/051_sky_sport_9_logo_stack_rgb.png",
+"country":"NZ"
+},
+{
+"channel":"skySPL.nz",
+"id":"skySPL.nz",
+"name":"SKYSPORTS PREMIER LEAGUE",
+"categories":["SPORTS"],
+"url":"nz/skysp0rts8.m3u8",
+"logo":"https://i.imgur.com/2dsSm5m.png",
+"country":"NZ"
+},
+{
+"channel":"tntS1.uk",
+"id":"tntS1.uk",
+"name":"TNT SPORTS 1",
+"categories":["SPORTS"],
+"url":"uk/tntsp0rts1.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png",
+"country":"UK"
+},
+{
+"channel":"tntS2.uk",
+"id":"tntS2.uk",
+"name":"TNT SPORTS 2",
+"categories":["SPORTS"],
+"url":"uk/tntsp0rts2.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png",
+"country":"UK"
+},
+{
+"channel":"tntS3.uk",
+"id":"tntS3.uk",
+"name":"TNT SPORTS 3",
+"categories":["SPORTS"],
+"url":"uk/tntsp0rts3.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png",
+"country":"UK"
+},
+{
+"channel":"tntS4.uk",
+"id":"tntS4.uk",
+"name":"TNT SPORTS 4",
+"categories":["SPORTS"],
+"url":"uk/tntsp0rts4.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png",
+"country":"UK"
+},
+{
+"channel":"tntS5.uk",
+"id":"tntS5.uk",
+"name":"TNT SPORTS 5",
+"categories":["SPORTS"],
+"url":"uk/tntsp0rts5.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/za5ba01689746204.png",
+"country":"UK"
+},
+{
+"channel":"itv1.uk",
+"id":"itv1.uk",
+"name":"ITV",
+"categories":["SPORTS"],
+"url":"uk/itv1-alt.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/rqyvqs1433964177.png",
+"country":"UK"
+},
+{
+"channel":"optusS1.au",
+"id":"optusS1.au",
+"name":"OPTUS SPORTS 1",
+"categories":["SPORTS"],
+"url":"au/optussp0rts1.m3u8",
+"logo":"https://i.imgur.com/vDtIJvd.png",
+"country":"AU"
+},
+{
+"channel":"optusS2.au",
+"id":"optusS2.au",
+"name":"OPTUS SPORTS 2",
+"categories":["SPORTS"],
+"url":"au/optussp0rts2.m3u8",
+"logo":"https://i.imgur.com/0Y5VndY.png",
+"country":"AU"
+},
+{
+"channel":"optusS3.au",
+"id":"optusS3.au",
+"name":"OPTUS SPORTS 3",
+"categories":["SPORTS"],
+"url":"au/optussp0rts3.m3u8",
+"logo":"https://i.imgur.com/exP5K3m.png",
+"country":"AU"
+},
+{
+"channel":"optusS4.au",
+"id":"optusS4.au",
+"name":"OPTUS SPORTS 4",
+"categories":["SPORTS"],
+"url":"au/optussp0rts4.m3u8",
+"logo":"https://i.imgur.com/D2aJFAH.png",
+"country":"AU"
+},
+{
+"channel":"optusS5.au",
+"id":"optusS5.au",
+"name":"OPTUS SPORTS 5",
+"categories":["SPORTS"],
+"url":"au/optussp0rts5.m3u8",
+"logo":"https://i.imgur.com/EhwTWS4.png",
+"country":"AU"
+},
+{
+"channel":"optusS6.au",
+"id":"optusS6.au",
+"name":"OPTUS SPORTS 6",
+"categories":["SPORTS"],
+"url":"au/optussp0rts6.m3u8",
+"logo":"https://i.imgur.com/nbfURnY.png",
+"country":"AU"
+},
+{
+"channel":"optusS7.au",
+"id":"optusS7.au",
+"name":"OPTUS SPORTS 7",
+"categories":["SPORTS"],
+"url":"au/optussp0rts7.m3u8",
+"logo":"https://i.imgur.com/vDtIJvd.png",
+"country":"AU"
+},
+{
+"channel":"nowS1PL.hk",
+"id":"nowS1PL.hk",
+"name":"NOWSPORTS PREMIER LEAGUE 1",
+"categories":["SPORTS"],
+"url":"hk/nowsp0rts1pl.m3u8",
+"logo":"https://i.imgur.com/l2dzMGa.png",
+"country":"HK"
+},
+{
+"channel":"nowS2PL.hk",
+"id":"nowS2PL.hk",
+"name":"NOWSPORTS PREMIER LEAGUE 2",
+"categories":["SPORTS"],
+"url":"hk/nowsp0rts2pl.m3u8",
+"logo":"https://i.imgur.com/yVCWN1c.png",
+"country":"HK"
+},
+{
+"channel":"nowS3PL.hk",
+"id":"nowS3PL.hk",
+"name":"NOWSPORTS PREMIER LEAGUE 3",
+"categories":["SPORTS"],
+"url":"hk/nowsp0rts3pl.m3u8",
+"logo":"https://i.imgur.com/oxakZgk.png",
+"country":"HK"
+},
+{
+"channel":"nowS4PL.hk",
+"id":"nowS4PL.hk",
+"name":"NOWSPORTS PREMIER LEAGUE 4",
+"categories":["SPORTS"],
+"url":"hk/nowsp0rts4pl.m3u8",
+"logo":"https://i.imgur.com/evqQoh9.png",
+"country":"HK"
+},
+{
+"channel":"nowS5PL.hk",
+"id":"nowS5PL.hk",
+"name":"NOWSPORTS PREMIER LEAGUE 5",
+"categories":["SPORTS"],
+"url":"hk/nowsp0rts5pl.m3u8",
+"logo":"https://i.imgur.com/eAsPUx2.png",
+"country":"HK"
+},
+{
+"channel":"nowS6PL.hk",
+"id":"nowS6PL.hk",
+"name":"NOWSPORTS PREMIER LEAGUE 6",
+"categories":["SPORTS"],
+"url":"hk/nowsp0rts6pl.m3u8",
+"logo":"https://i.imgur.com/q2GQzb9.png",
+"country":"HK"
+},
+{
+"channel":"nowS4k.hk",
+"id":"nowS4k.hk",
+"name":"NOWSPORTS 4K",
+"categories":["SPORTS"],
+"url":"hk/nowsp0rts4k.m3u8",
+"logo":"https://i.imgur.com/D0GgEQR.png",
+"country":"HK"
+},
+{
+"channel":"nowS1.hk",
+"id":"nowS1.hk",
+"name":"NOWSPORTS 1",
+"categories":["SPORTS"],
+"url":"hk/nowsp0rts1.m3u8",
+"logo":"https://i.imgur.com/3BbhTQX.png",
+"country":"HK"
+},
+{
+"channel":"nowS2.hk",
+"id":"nowS2.hk",
+"name":"NOWSPORTS 2",
+"categories":["SPORTS"],
+"url":"hk/nowsp0rts2.m3u8",
+"logo":"https://i.imgur.com/wkmjtNT.png",
+"country":"HK"
+},
+{
+"channel":"nowS3.hk",
+"id":"nowS3.hk",
+"name":"NOWSPORTS 3",
+"categories":["SPORTS"],
+"url":"hk/nowsp0rts3.m3u8",
+"logo":"https://i.imgur.com/kgo9uwH.png",
+"country":"HK"
+},
+{
+"channel":"nowS4.hk",
+"id":"nowS4.hk",
+"name":"NOWSPORTS 4",
+"categories":["SPORTS"],
+"url":"hk/nowsp0rts4.m3u8",
+"logo":"https://i.imgur.com/VzQp0ek.png",
+"country":"HK"
+},
+{
+"channel":"nowS5.hk",
+"id":"nowS5.hk",
+"name":"NOWSPORTS 5",
+"categories":["SPORTS"],
+"url":"hk/nowsp0rts5.m3u8",
+"logo":"https://i.imgur.com/qH25e4C.png",
+"country":"HK"
+},
+{
+"channel":"nowS6.hk",
+"id":"nowS6.hk",
+"name":"NOWSPORTS 6",
+"categories":["SPORTS"],
+"url":"hk/nowsp0rts6.m3u8",
+"logo":"https://i.imgur.com/oK9L6ni.png",
+"country":"HK"
+},
+{
+"channel":"nowS7.hk",
+"id":"nowS7.hk",
+"name":"NOWSPORTS 7",
+"categories":["SPORTS"],
+"url":"hk/nowsp0rts7.m3u8",
+"logo":"https://i.imgur.com/DySwf7S.png",
+"country":"HK"
+},
+{
+"channel":"hubpremS1.sg",
+"id":"hubpremS1.sg",
+"name":"HUB PREMIER 1",
+"categories":["SPORTS"],
+"url":"sg/hubpremsp0rts1.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png",
+"country":"SG"
+},
+{
+"channel":"hubpremS2.sg",
+"id":"hubpremS2.sg",
+"name":"HUB PREMIER 2",
+"categories":["SPORTS"],
+"url":"sg/hubpremsp0rts2.m3u8",
+"logo":"https://i.imgur.com/mrZwamR.png",
+"country":"SG"
+},
+{
+"channel":"hubpremS3.sg",
+"id":"hubpremS3.sg",
+"name":"HUB PREMIER 3",
+"categories":["SPORTS"],
+"url":"sg/hubpremsp0rts3.m3u8",
+"logo":"https://i.imgur.com/0A6bP0g.png",
+"country":"SG"
+},
+{
+"channel":"hubpremS4.sg",
+"id":"hubpremS4.sg",
+"name":"HUB PREMIER 4",
+"categories":["SPORTS"],
+"url":"sg/hubpremsp0rts4.m3u8",
+"logo":"https://i.imgur.com/RTgyfAe.png",
+"country":"SG"
+},
+  {
+"channel":"hubpremS5.sg",
+"id":"hubpremS5.sg",
+"name":"HUB PREMIER 5",
+"categories":["SPORTS"],
+"url":"sg/hubpremsp0rts5.m3u8",
+"logo":"https://i.imgur.com/XhX3oUI.png",
+"country":"SG"
+},
+  {
+"channel":"hubpremS6.sg",
+"id":"hubpremS6.sg",
+"name":"HUB PREMIER 6",
+"categories":["SPORTS"],
+"url":"sg/hubpremsp0rts6.m3u8",
+"logo":"https://i.imgur.com/9F7wNgI.png",
+"country":"SG"
+},
+{
+"channel":"hubpremS7.sg",
+"id":"hubpremS7.sg",
+"name":"HUB PREMIER 7",
+"categories":["SPORTS"],
+"url":"sg/hubpremsp0rts7.m3u8",
+"logo":"https://i.imgur.com/bVOyKEV.png",
+"country":"SG"
+},
+{
+"channel":"hubpremS8.sg",
+"id":"hubpremS8.sg",
+"name":"HUB PREMIER 8",
+"categories":["SPORTS"],
+"url":"sg/hubpremsp0rts8.m3u8",
+"logo":"https://i.imgur.com/stYijJ1.png",
+"country":"SG"
+},
+{
+"channel":"hubpremS9.sg",
+"id":"hubpremS9.sg",
+"name":"HUB PREMIER 9",
+"categories":["SPORTS"],
+"url":"sg/hubpremsp0rts9.m3u8",
+"logo":"https://i.imgur.com/TN8HGea.png",
+"country":"SG"
+},
+{
+"channel":"hubpremS10.sg",
+"id":"hubpremS10.sg",
+"name":"HUB PREMIER 10",
+"categories":["SPORTS"],
+"url":"sg/hubpremsp0rts10.m3u8",
+"logo":"https://i.imgur.com/h1jaQqc.png",
+"country":"SG"
+},
+{
+"channel":"hubpremS11.sg",
+"id":"hubpremS11.sg",
+"name":"HUB PREMIER 11",
+"categories":["SPORTS"],
+"url":"sg/hubpremsp0rts11.m3u8",
+"logo":"https://i.imgur.com/l0rGLan.png",
+"country":"SG"
+},
+{
+"channel":"starS1.in",
+"id":"starS1.in",
+"name":"STARSPORTS 1",
+"categories":["SPORTS"],
+"url":"in/starsp0rts1.m3u8",
+"logo":"https://i.imgur.com/E5jjKHI.png",
+"country":"IN"
+},
+{
+"channel":"starS2.in",
+"id":"starS2.in",
+"name":"STARSPORTS 2",
+"categories":["SPORTS"],
+"url":"in/starsp0rts2.m3u8",
+"logo":"https://i.imgur.com/5En7pOI.png",
+"country":"IN"
+}, 
+{
+"channel":"starSS1.in",
+"id":"starSS1.in",
+"name":"STARSPORTS SELECT 1",
+"categories":["SPORTS"],
+"url":"in/starsp0rtsselect1.m3u8",
+"logo":"https://i.imgur.com/Mh9tKPx.png",
+"country":"IN"
+}, 
+{
+"channel":"starSS2.in",
+"id":"starSS2.in",
+"name":"STARSPORTS SELECT 2",
+"categories":["SPORTS"],
+"url":"in/starsp0rtsselect2.m3u8",
+"logo":"https://i.imgur.com/FtRT73R.png",
+"country":"IN"
+}, 
+{
+"channel":"espn1.nl",
+"id":"espn1.nl",
+"name":"ESPN",
+"categories":["SPORTS"],
+"url":"nl/espn1.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
+"country":"NL"
+},
+{
+"channel":"espn2.nl",
+"id":"espn2.nl",
+"name":"ESPN 2",
+"categories":["SPORTS"],
+"url":"nl/espn2.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/keezdj1660760512.png",
+"country":"NL"
+},
+{
+"channel":"espn3.nl",
+"id":"espn3.nl",
+"name":"ESPN 3",
+"categories":["SPORTS"],
+"url":"nl/espn3.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/x8t6yd1660760523.png",
+"country":"NL"
+},
+{
+"channel":"espn4.nl",
+"id":"espn4.nl",
+"name":"ESPN 4",
+"categories":["SPORTS"],
+"url":"nl/espn4.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/ekdzvo1660760535.png",
+"country":"NL"
+}
+]  
