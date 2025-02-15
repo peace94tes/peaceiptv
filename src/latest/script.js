@@ -280,7 +280,7 @@ window.addEventListener("load", function () {
           f !== "Iran"
         ) {
           b++;
-          var i18n = "https://peace94tes.github.io/peaceiptv/embed/v4/?url=";
+          var i18n = "https://peace94tes.github.io/openPlay/?url=";
           var i18k = "https://peace94tes.github.io/peaceiptv/embed/v5/?url=";
           var deviceId = "deviceId=YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj";   
           //output += "<tr><td><center><img width='64' src='" + a[i].logo + "'/></center></td><td>" + a[i].name + "</td><td style='display:none;'>" + d + "</td><td><center><button class='btn'><a class='open-video' style='text-decoration:none;' href='" + i18n + a[i].url + "'>WATCH NOW</a></button></center></td></tr>";
